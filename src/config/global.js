@@ -414,7 +414,7 @@ export default {
     },
     {
       referencia:
-        'Weisinger, H. (1998). <em>La inteligencia emocional en el trabajo.</em> Editorial Paidós.',
+        'Weisinger, H. (1998). <em>La inteligencia emocional en el trabajo.</em> Editorial Paidos.',
     },
   ],
   creditos: [
