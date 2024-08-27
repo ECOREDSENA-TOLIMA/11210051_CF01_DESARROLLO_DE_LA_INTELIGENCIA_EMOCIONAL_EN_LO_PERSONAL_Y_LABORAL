@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/temas/Sintesis.svg", alt="En la síntesis del componente formativo “Antropología e inteligencia emocional”, se describe un análisis profundo de las emociones desde múltiples perspectivas, incluyendo la biológica, cognitiva y antropológica.")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis del componente formativo “Antropología e inteligencia emocional”, se describe un análisis profundo de las emociones desde múltiples perspectivas, incluyendo la biológica, cognitiva y antropológica.")
       .col-auto(data-aos="fade-left")
         a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
