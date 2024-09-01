@@ -30,8 +30,7 @@
             .col-lg-5.col-8.mb-3
               figure
                 img(src='@/assets/curso/temas/tema1/img-02.svg', alt='Imagen decorativa')
-            .col-lg-7.col-12.mb-3
-              h4 Atributos 
+            .col-lg-7.col-12.mb-1
               ol.lista-ol--cuadro.mb-0
                 li 
                   .lista-ol--cuadro__vineta

@@ -58,7 +58,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido
-      h2#t_6_2 6.2 Modelos 
+      h2#t_6_2 6.2 Principios 
 
     p.mb-5(data-aos="zoom-in") Existen varios modelos de inteligencia emocional que intentan explicar y medir esta capacidad:
 
@@ -101,7 +101,7 @@
     Separador 
 
     .titulo-segundo.color-acento-contenido
-      h2#t_6_3 6.3 Principios 
+      h2#t_6_3 6.3 Modelos
       
     p.mb-5(data-aos="zoom-in") Los principios fundamentales de la Inteligencia Emocional (IE) se pueden dividir en varias áreas clave:
 

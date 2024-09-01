@@ -48,7 +48,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema8/img-05.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h3 Modelo de Mayer y Salovey
-              p Este modelo se centra en la inteligencia emocional como una capacidad mental que implica la habilidad de percibir, usar, entender y regular las emociones
+              p Este modelo se centra en la inteligencia emocional como una capacidad mental que implica la habilidad de percibir, usar, entender y regular las emociones.
             
       .col-sm-6.col-xl-3
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")

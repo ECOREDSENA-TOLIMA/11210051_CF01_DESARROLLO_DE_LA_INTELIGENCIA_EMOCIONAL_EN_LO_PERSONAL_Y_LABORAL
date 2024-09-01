@@ -70,12 +70,12 @@
         p Se refiere a los sentimientos de conexión, orgullo y lealtad hacia la organización. Los empleados comprometidos se sienten identificados  con los valores y la cultura de la empresa.
 
       .col-4.col-ipad.mb-4
-        img(src='@/assets/curso/temas/tema5/img-08.svg').mb-4
+        img(src='@/assets/curso/temas/tema5/img-017.svg').mb-4
         h3 Cognitivo
         p Implica la aceptación de los objetivos y metas de la organización, así como la creencia en su importancia. los Empleados comprometidos entienden como su trabajo contribuye al éxito de la empresa.
 
       .col-4.col-ipad.mb-4
-        img(src='@/assets/curso/temas/tema5/img-08.svg').mb-4
+        img(src='@/assets/curso/temas/tema5/img-018.svg').mb-4
         h3 Conductal
         p Se manifiesta en acciones concretas,  como el esfuerzo adicional, la disposición a ayudar a los compañeros y la defensa de los intereses de la organización. 
 
@@ -157,7 +157,7 @@ export default {
       {
         titulo: 'Toma de decisiones',
         texto:
-          'las emociones pueden sesgar el juicio y afectar la calidad de las decisiones (Damasio, 1994).',
+          'Las emociones pueden sesgar el juicio y afectar la calidad de las decisiones (Damasio, 1994).',
         imagen: require('@/assets/curso/temas/tema5/img-01.png'),
       },
       {
