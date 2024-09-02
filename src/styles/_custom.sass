@@ -252,6 +252,40 @@
         color: black !important
       .linea-tiempo-d__item__content
         background-color: #FFF4D6 !important
+  
+  ///////// Card hover --------------------------------------
+  .crd_hover_txt
+    border-radius: 0 0 15px 15px
+    position: relative  
+    padding: 0 !important
+    overflow: hidden !important  
+    &:hover    
+      .crd_hover_txt--body   
+        transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+        transform: translateY(0)
+        top: 0px
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 4.5rem ))
+    background-color: rgba(255, 244, 214, 1) 
+    border-radius: 0 0 15px 15px
+
+  .lista-ul--color
+    li
+      display: flex
+      
+  .ico-open-task
+    background-image: url('../assets/curso/temas/open.svg')
+    background-repeat: no-repeat
+    background-size: 25px 25px
+    border: none
+    top: -3px !important
+    margin-right: 7px !important
+    padding: 13px
 
 .tema9
   .bg
