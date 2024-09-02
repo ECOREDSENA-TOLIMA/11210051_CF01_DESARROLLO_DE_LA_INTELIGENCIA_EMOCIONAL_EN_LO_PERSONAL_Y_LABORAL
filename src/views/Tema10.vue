@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 10
       h1 Teoría de las inteligencias múltiples 
-
+    
     .row.justify-content-center.mb-5
       .col-12(data-aos="fade-up")
         figure
@@ -95,7 +95,8 @@
             img(src='@/assets/curso/temas/tema10/img-011.svg' alt='AvatarTop')
         h2.text-center Inteligencia naturalista
         p Habilidad para identificar, clasificar y manipular elementos del medio ambiente.
-
+    
+    .row.mb-1
 
 </template>
 

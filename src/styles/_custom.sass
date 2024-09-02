@@ -67,10 +67,15 @@
     width: auto
     height: auto 
 
-  .fondo-2
-    background-image: url('../assets/curso/temas/tema1/fondo.png')
-    background-size: auto !important
+  .fondo2-t2
+    background: url('../assets/curso/temas/tema1/fondo2.png')
+    background-position: center
+    background-size: cover
     background-repeat: no-repeat
+    margin-inline: -3.4rem
+    @media screen and (max-width: 992px)
+      background-size: cover
+      margin-inline: -1.4rem
 
 .tema2
   .tarjeta.tarjeta--gris.acordion__activo

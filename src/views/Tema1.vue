@@ -23,47 +23,46 @@
     
     p.mb-5(data-aos="zoom-in") De acuerdo con la revisión realizada por Rodríguez, T. (2008), cita que Elster, J. en 1999 identificó los siguientes atributos cognitivos y viscerales en las emociones: 
 
-    .container.bg-white.px-md-5.px-3.py-2.container-top.fondo-2.m-top-1.mb-0.cs
-      .row.align-items-center.justify-content-center.my-5
-        .col-lg-10.col-12(data-aos="fade-left")
-          .row.justify-content-center 
-            .col-lg-5.col-8.mb-3
-              figure
-                img(src='@/assets/curso/temas/tema1/img-02.svg', alt='Imagen decorativa')
-            .col-lg-7.col-12.mb-1
-              ol.lista-ol--cuadro.mb-0
-                li 
-                  .lista-ol--cuadro__vineta
-                    span(style="font-weight: bold; color: #000") a
-                  | Tienen antecedentes cognitivos. 
-                li 
-                  .lista-ol--cuadro__vineta
-                    span(style="font-weight: bold; color: #000") b
-                  | Están dirigidas hacia un objeto intencional. 
-                li 
-                  .lista-ol--cuadro__vineta
-                    span(style="font-weight: bold; color: #000") c
-                  | Inducen cambios fisiológicos (excitación). 
-                li 
-                  .lista-ol--cuadro__vineta
-                    span(style="font-weight: bold; color: #000") d
-                  | Tienen expresiones fisiológicas.
-                li 
-                  .lista-ol--cuadro__vineta
-                    span(style="font-weight: bold; color: #000") e
-                  | Van acompañadas de placer o dolor. 
-                li 
-                  .lista-ol--cuadro__vineta
-                    span(style="font-weight: bold; color: #000") f
-                  | Inducen tendencias a realizar determinadas acciones.
+    .row.fondo2-t2.align-items-center.py-3
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.justify-content-center.align-items-center
+          .col-lg-10.col-12(data-aos="fade-left")
+            .row.justify-content-center 
+              .col-lg-5.col-8.mb-3
+                figure
+                  img(src='@/assets/curso/temas/tema1/img-02.svg', alt='Imagen decorativa')
+              .col-lg-7.col-12.mb-1
+                ol.lista-ol--cuadro.mb-0
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span(style="font-weight: bold; color: #000") a
+                    | Tienen antecedentes cognitivos. 
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span(style="font-weight: bold; color: #000") b
+                    | Están dirigidas hacia un objeto intencional. 
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span(style="font-weight: bold; color: #000") c
+                    | Inducen cambios fisiológicos (excitación). 
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span(style="font-weight: bold; color: #000") d
+                    | Tienen expresiones fisiológicas.
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span(style="font-weight: bold; color: #000") e
+                    | Van acompañadas de placer o dolor. 
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span(style="font-weight: bold; color: #000") f
+                    | Inducen tendencias a realizar determinadas acciones.
 
-              p Asimismo, las emociones hacen referencia a hechos sociales, debido a que sus manifestaciones están pautadas por el entorno grupal y por sus formas culturales. Con la misma pertinencia, son consideradas hechos semióticos, significativos, comunicativos, dotados de sentido y sentimiento (Mauss, M., 1921).
+                p Asimismo, las emociones hacen referencia a hechos sociales, debido a que sus manifestaciones están pautadas por el entorno grupal y por sus formas culturales. Con la misma pertinencia, son consideradas hechos semióticos, significativos, comunicativos, dotados de sentido y sentimiento (Mauss, M., 1921).
 
-      .row.justify-content-center 
-        .col-lg-10.col-12
-          p(data-aos="zoom-in") Marcel Mauss, en su obra de 1921, describe las emociones como hechos sociales, subrayando su carácter colectivo y cultural, y cómo están intrínsecamente ligadas a las expresiones y normas sociales. 
-    
-    .container.bg-white.p-md-5.p-4.container-bottom.mt-0.cs.mb-5
+        .row.justify-content-center 
+          .col-lg-10.col-12
+            p(data-aos="zoom-in") Marcel Mauss, en su obra de 1921, describe las emociones como hechos sociales, subrayando su carácter colectivo y cultural, y cómo están intrínsecamente ligadas a las expresiones y normas sociales. 
     
     Separador 
 
@@ -273,76 +272,36 @@
     p.mb-5(data-aos="zoom-in") A continuación, se presentan los aportes de diversos autores que han sido fundamentales en el desarrollo de las teorías culturales sobre las emociones, tomada de Manrique, R. (2015): 
 
     LineaTiempoE.color-acento-contenido
-      .row(titulo="1936" subtitulo="")
-        .col-lg-2
-          figure
-            img(src='@/assets/curso/temas/tema1/img-012.svg', alt='Texto que describa la imagen')
-
+      .row(titulo="Bateson, G. (1936)" subtitulo="")
         .col-lg-9.mb-4.mb-lg-0
-          h3 Bateson, G. 
           p Explora cómo los patrones de comunicación y la dinámica social influyen en la expresión y comprensión de las emociones en diferentes culturas.
         
-      .row(titulo="1968" subtitulo="")
-        .col-lg-2
-          figure
-            img(src='@/assets/curso/temas/tema1/img-013.svg', alt='Texto que describa la imagen')
-
+      .row(titulo="Mauss, M. (1968)" subtitulo="")
         .col-lg-9.mb-4.mb-lg-0
-          h3 Mauss, M.
           p Estudia el papel de las emociones en los rituales y prácticas sociales, destacando su carácter socialmente construido.
       
-      .row(titulo="1973" subtitulo="")
-        .col-lg-2
-          figure
-            img(src='@/assets/curso/temas/tema1/img-014.svg', alt='Texto que describa la imagen')
-
+      .row(titulo="Geertz, C. (1973)" subtitulo="")
         .col-lg-9.mb-4.mb-lg-0
-          h3 Geertz, C.
           p Introduce el concepto de "descripción densa", subrayando cómo las emociones son interpretadas y significadas dentro de un contexto cultural específico.
       
-      .row(titulo="1984" subtitulo="")
-        .col-lg-2
-          figure
-            img(src='@/assets/curso/temas/tema1/img-014.svg', alt='Texto que describa la imagen')
-
+      .row(titulo="Rosaldo, M. (1984)" subtitulo="")
         .col-lg-9.mb-4.mb-lg-0
-          h3 Rosaldo, M.
           p Examina las emociones desde una perspectiva cultural, analizando cómo las normas culturales configuran las experiencias emocionales.
       
-      .row(titulo="1984" subtitulo="")
-        .col-lg-2
-          figure
-            img(src='@/assets/curso/temas/tema1/img-015.svg', alt='Texto que describa la imagen')
-
+      .row(titulo="Salomón. (1984)" subtitulo="")
         .col-lg-9.mb-4.mb-lg-0
-          h3 Salomón. 
           p Analiza cómo las emociones contribuyen a la formación de identidad en diferentes sociedades.
       
-      .row(titulo="1988" subtitulo="")
-        .col-lg-2
-          figure
-            img(src='@/assets/curso/temas/tema1/img-015.svg', alt='Texto que describa la imagen')
-
+      .row(titulo="Lutz, C. (1988)" subtitulo="")
         .col-lg-9.mb-4.mb-lg-0
-          h3 Lutz. C.
           p Argumenta que las emociones son prácticas culturales que varían ampliamente entre sociedades, reflejando valores y creencias locales.
     
-      .row(titulo="1999" subtitulo="")
-        .col-lg-2
-          figure
-            img(src='@/assets/curso/temas/tema1/img-015.svg', alt='Texto que describa la imagen')
-
+      .row(titulo="Le Breton, D. (1999)" subtitulo="")
         .col-lg-9.mb-4.mb-lg-0
-          h3 Le Breton, D.
           p Aborda cómo el dolor y otras emociones extremas son entendidas y valoradas en distintas culturas.
       
-      .row(titulo="2000" subtitulo="")
-        .col-lg-2
-          figure
-            img(src='@/assets/curso/temas/tema1/img-015.svg', alt='Texto que describa la imagen')
-
+      .row(titulo="Merleau-Ponty, M. (2000)" subtitulo="")        
         .col-lg-9.mb-4.mb-lg-0
-          h3 Merleau-Ponty, M.
           p Considera las emociones desde la fenomenología, enfatizando cómo la percepción y la corporalidad influyen en la experiencia emocional.
 
 

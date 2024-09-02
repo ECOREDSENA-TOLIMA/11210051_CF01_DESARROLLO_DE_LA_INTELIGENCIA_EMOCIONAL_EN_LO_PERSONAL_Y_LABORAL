@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Antropología e inteligencia emocional',
     descripcionCurso:
       'Este componente explora la relación entre emociones y cultura, abordando su naturaleza, clasificación y función desde perspectivas biológicas, cognitivas y antropológicas. Además, se analiza la inteligencia emocional, las competencias emocionales, y la interacción entre inteligencia emocional, intrapersonal y racional en contextos empresariales y socioculturales, destacando la teoría de las inteligencias múltiples.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {

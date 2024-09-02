@@ -113,37 +113,38 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-012.svg' alt='AvatarTop')
-        h2.text-center Mayor productividad
+        h3.text-center Mayor productividad
         p Los empleados comprometidos suelen ser más productivos y eficientes. 
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-013.svg' alt='AvatarTop')
-        h2.text-center Menor rotación
+        h3.text-center Menor rotación
         p Un alto nivel de compromiso se traduce en una menor tasa de rotación de personal. 
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-014.svg' alt='AvatarTop')
-        h2.text-center Mejor calidad
+        h3.text-center Mejor calidad
         p Los empleados comprometidos tienden a prestar mayor atención a los detalles y a ofrecer un mejor servicio al cliente. 
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-015.svg' alt='AvatarTop')
-        h2.text-center Mayor innovación
+        h3.text-center Mayor innovación
         p Los empleados comprometidos se sienten más seguros para expresar sus ideas y proponer soluciones innovadoras.
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-016.svg' alt='AvatarTop')
-        h2.text-center Mayor satisfacción laboral
+        h3.text-center Mayor satisfacción laboral
         p Los empleados comprometidos suelen estar más satisfechos con su trabajo y con la organización en general. 
 
+    .row.mb-1
 
 
 

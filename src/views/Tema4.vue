@@ -15,7 +15,7 @@
           .col-4
             figure
               img(src='@/assets/curso/temas/tema4/img-08.svg', alt='Imagen decorativa')
-        h2.text-center Emociones
+        h3.text-center Emociones
         p Son reacciones rápidas y automáticas que involucran tanto procesos fisiológicos como psicológicos. Estas respuestas que se desencadenan antes estímulos específicos , pueden ser breves y están asociadas con cambios fisiológicos y comportamientos observables.
         
       .col-md.tarjeta.color-secundario.p-5
@@ -23,7 +23,7 @@
           .col-4
             figure
               img(src='@/assets/curso/temas/tema4/img-09.svg', alt='Imagen decorativa')
-        h2.text-center Sentimientos
+        h3.text-center Sentimientos
         p Son la experiencia personal y subjetiva de las emociones. A diferencia de las emociones los sentimientos son mas duraderos y están influidos por el contexto cultural, las creencias y los recuerdos. 
 
     Separador 
@@ -38,49 +38,49 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/img-01.svg' alt='AvatarTop')
-        h2.text-center Amor
+        h3.text-center Amor
         p Un sentimiento profundo de apego y conexión hacia otra persona, objeto o idea, que puede manifestarse en formas románticas, familiares o platónicas. El amor influye en las decisiones, comportamientos y perspectivas de vida.
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/img-02.svg' alt='AvatarTop')
-        h2.text-center Ansiedad
+        h3.text-center Ansiedad
         p Una emoción caracterizada por sentimientos de tensión, preocupación y temor. Es una respuesta a una amenaza percibida y puede influir en el comportamiento y en las decisiones cotidianas, a menudo llevándolo a evitar ciertas situaciones. 
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/img-03.svg' alt='AvatarTop')
-        h2.text-center Empatía
+        h3.text-center Empatía
         p La capacidad de entender y compartir los sentimientos de otro. La empatía es crucial para las relaciones interpersonales, ya que fomenta la comprensión mutua y el apoyo emocional.
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/img-04.svg' alt='AvatarTop')
-        h2.text-center Nostalgia
+        h3.text-center Nostalgia
         p Un sentimiento agridulce que surge al recordar momentos pasados, a menudo idealizados. La nostalgia puede provocar una sensación de pérdida, pero también puede fortalecer el sentido de identidad y pertenencia. 
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/img-05.svg' alt='AvatarTop')
-        h2.text-center Resentimiento
+        h3.text-center Resentimiento
         p Un sentimiento negativo que se desarrolla como resultado de una ofensa percibida, injusticia o traición. El resentimiento puede durar mucho tiempo y afectar profundamente las relaciones interpersonales. 
       
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/img-06.svg' alt='AvatarTop')
-        h2.text-center Culpa
+        h3.text-center Culpa
         p Una emoción que surge cuando una persona siente que ha violado sus propios estándares morales o éticos. La culpa puede llevar a la reparación y al cambio de comportamiento, pero también puede ser debilitante si no se maneja adecuadamente.
       
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema4/img-07.svg' alt='AvatarTop')
-        h2.text-center Agradecimiento
+        h3.text-center Agradecimiento
         p Una emoción positiva que se experimenta al reconocer la bondad recibida de otros. El agradecimiento promueve el bienestar emocional y fortalece las relaciones sociales. 
 
     p.mb-5(data-aos="zoom-in") Estos fenómenos son solo algunos ejemplos de la complejidad de la vida afectiva humana. Cada uno de ellos juega un papel crucial en cómo las personas navegan sus relaciones, toman decisiones y encuentran significado en sus vidas. 
