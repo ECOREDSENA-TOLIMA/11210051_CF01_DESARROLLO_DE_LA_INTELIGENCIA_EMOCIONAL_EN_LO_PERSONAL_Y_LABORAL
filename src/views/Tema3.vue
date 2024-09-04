@@ -9,8 +9,32 @@
 
     p.mb-5(data-aos="zoom-in") Las emociones cumplen funciones esenciales en la vida humana, actuando como mecanismos adaptativos que permiten a los individuos responder de manera efectiva a su entorno. Estas funciones se pueden agrupar en tres grandes categorías:
 
-    .row.justify-content-center.mb-5
-      .col-lg-4.col-md-10.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down")
+      .col-10.col-lg-4.mb-3
+        .tarjeta.tarjeta-foto-hover
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema3/tj1_1.png' alt="Muestra semillas nativas")
+          .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
+          .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
+            .p-4.text-center
+              p.text-center.mb-0.text-small Las emociones sirven como impulsos que dirigen y orientan el comportamiento hacia la satisfacción de necesidades y deseos. Por ejemplo, el miedo puede motivar a una persona a evitar situaciones peligrosas, mientras que la alegría puede impulsar la repetición de conductas que generan bienestar. 
+      .col-10.col-lg-4.mb-3
+        .tarjeta.tarjeta-foto-hover
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema3/tj2_2.png' alt="Muestra semillas mejoradas")
+          .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
+          .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
+            .p-4.text-center
+              p.text-center.mb-0.text-small Las emociones facilitan la comunicación y la interacción social al expresar estados internos y generar empatía. Las emociones compartidas, como la tristeza en un duelo o la felicidad en una celebración, refuerzan los lazos sociales y la cohesión grupal, siendo fundamentales para la vida en comunidad. 
+
+      .col-10.col-lg-4.mb-3
+        .tarjeta.tarjeta-foto-hover
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema3/tj3_3.png' alt="Muestra semillas híbridas ")
+          .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
+          .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
+            .p-4.text-center
+              p.text-center.mb-0.text-small Las emociones ayudan a regular los estados internos del organismo, manteniendo un equilibrio psicológico y fisiológico. Por ejemplo, la tristeza puede permitir la elaboración de experiencias dolorosas, mientras que la rabia puede canalizarse en la defensa de los propios derechos. 
+
+    //.row.justify-content-center.mb-5
+      .col-lg-4.col-md-10.col-sm-10.mb-xl-0.mb-4.col-ipad(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema3/img-02.png' alt="Imagen decorativa")
@@ -22,7 +46,7 @@
               h4.mb-0 Función motivacional
             p.text-small.text-center.mb-0 Las emociones sirven como impulsos que dirigen y orientan el comportamiento hacia la satisfacción de necesidades y deseos. Por ejemplo, el miedo puede motivar a una persona a evitar situaciones peligrosas, mientras que la alegría puede impulsar la repetición de conductas que generan bienestar. 
 
-      .col-lg-4.col-md-10.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-lg-4.col-md-10.col-sm-10.mb-xl-0.mb-4.col-ipad(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema3/img-03.png' alt="Imagen decorativa")
@@ -34,7 +58,7 @@
               h4.mb-0 Función social
             p.text-small.text-center.mb-0 Las emociones facilitan la comunicación y la interacción social al expresar estados internos y generar empatía. Las emociones compartidas, como la tristeza en un duelo o la felicidad en una celebración, refuerzan los lazos sociales y la cohesión grupal, siendo fundamentales para la vida en comunidad. 
 
-      .col-lg-4.col-md-10.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-lg-4.col-md-10.col-sm-10.mb-xl-0.mb-4.col-ipad(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema3/img-04.png' alt="Imagen decorativa")

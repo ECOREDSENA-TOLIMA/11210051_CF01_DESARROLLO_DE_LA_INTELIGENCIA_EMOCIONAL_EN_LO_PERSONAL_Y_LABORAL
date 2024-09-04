@@ -12,7 +12,7 @@
     .tarjeta--container.row.mb-5(data-aos="fade-up")
       .col-md.tarjeta.color-primario2.p-5
         .row.justify-content-center.mb-4
-          .col-4
+          .col-lg-4.col-6
             figure
               img(src='@/assets/curso/temas/tema4/img-08.svg', alt='Imagen decorativa')
         h3.text-center Emociones
@@ -20,7 +20,7 @@
         
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
-          .col-4
+          .col-lg-4.col-6
             figure
               img(src='@/assets/curso/temas/tema4/img-09.svg', alt='Imagen decorativa')
         h3.text-center Sentimientos

@@ -8,7 +8,7 @@
       h1 Teoría de las inteligencias múltiples 
     
     .row.justify-content-center.mb-5
-      .col-12(data-aos="fade-up")
+      .col-12(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema10/img-01.png', alt='')
      

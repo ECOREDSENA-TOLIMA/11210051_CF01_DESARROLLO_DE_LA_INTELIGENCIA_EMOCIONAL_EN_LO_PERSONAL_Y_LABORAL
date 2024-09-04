@@ -26,7 +26,7 @@
 
 
     .row.justify-content-center.mb-5.md-px-5.col-ipad
-      .col-lg-3.col-md-6.col-12.mb-4.mb-xl-0.mt-2
+      .col-xl-3.col-md-6
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -38,7 +38,7 @@
                 h5 Modelo de Goleman
             p.mb-0 Este modelo, popularizado por Daniel Goleman, enfatiza la importancia de las competencias emocionales en el liderazgo y en el éxito personal. Goleman identifica cinco componentes principales: autoconciencia, autorregulación, motivación, empatía y habilidades sociales.
 
-      .col-lg-3.col-md-6.col-12.mb-4.mb-xl-0.mt-2
+      .col-xl-3.col-md-6
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -50,7 +50,7 @@
                 h5 Modelo de Bar-On
             p El modelo de Reuven Bar-On propone una visión más amplia de la inteligencia emocional, incluyendo componentes como la adaptación al estrés, la relación interpersonal y las habilidades generales de vida. 
 
-      .col-lg-3.col-md-6.col-12.mb-4.mb-xl-0.mt-2
+      .col-xl-3.col-md-6
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -62,7 +62,7 @@
                 h5 Modelo de Mayer y Salovey
             p Este modelo se centra en la inteligencia emocional como una capacidad mental que implica la habilidad de percibir, usar, entender y regular las emociones
             
-      .col-lg-3.col-md-6.col-12.mb-4.mb-xl-0.mt-2
+      .col-xl-3.col-md-6
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure

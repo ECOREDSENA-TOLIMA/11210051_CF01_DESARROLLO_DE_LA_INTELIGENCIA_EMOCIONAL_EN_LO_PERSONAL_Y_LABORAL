@@ -18,12 +18,12 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-10(data-aos="fade-down-right")
         .row.mb-1
-          .col-6.col-ipad.mb-4
+          .col-lg-6.col-ipad.mb-4
             img(src='@/assets/curso/temas/tema11/img-02.svg').mb-4
             h3 Inteligencia racional
             p Evaluada mediante pruebas estandarizadas, predice habilidades cognitivas especificas, como el pensamiento crítico y la capacidad de análisis.
 
-          .col-6.col-ipad.mb-4
+          .col-lg-6.col-ipad.mb-4
             img(src='@/assets/curso/temas/tema11/img-03.svg').mb-4
             h3 Inteligencia emocional 
             p Incluye la autoconciencia, la autorregulación, le empatía  y las habilidades sociales, y se considera crucial para el éxito en las relaciones  interpersonales y el liderazgo.
