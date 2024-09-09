@@ -72,7 +72,7 @@
       .col-4.col-ipad.mb-4
         img(src='@/assets/curso/temas/tema5/img-017.svg').mb-4
         h3 Cognitivo
-        p Implica la aceptación de los objetivos y metas de la organización, así como la creencia en su importancia. los Empleados comprometidos entienden como su trabajo contribuye al éxito de la empresa.
+        p Implica la aceptación de los objetivos y metas de la organización, así como la creencia en su importancia. Los empleados comprometidos entienden como su trabajo contribuye al éxito de la empresa.
 
       .col-4.col-ipad.mb-4
         img(src='@/assets/curso/temas/tema5/img-018.svg').mb-4
