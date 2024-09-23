@@ -21,7 +21,7 @@
           .col-lg-6.col-ipad.mb-4
             img(src='@/assets/curso/temas/tema11/img-02.svg').mb-4
             h3 Inteligencia racional
-            p Evaluada mediante pruebas estandarizadas, predice habilidades cognitivas especificas, como el pensamiento crítico y la capacidad de análisis.
+            p Evaluada mediante pruebas estandarizadas, predice habilidades cognitivas específicas, como el pensamiento crítico y la capacidad de análisis.
 
           .col-lg-6.col-ipad.mb-4
             img(src='@/assets/curso/temas/tema11/img-03.svg').mb-4

@@ -25,8 +25,8 @@
     p.mb-5(data-aos="zoom-in") Existen diversos modelos que intentan explicar y categorizar las competencias emocionales. Algunos de los más destacados son: 
 
 
-    .row.justify-content-center.mb-5.md-px-5.col-ipad
-      .col-xl-3.col-md-6
+    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down")
+      .col-10.col-lg-3.mb-3
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -36,9 +36,9 @@
               li.mb-4
                 i.ico-open-task
                 h5 Modelo de Goleman
-            p.mb-0 Este modelo, popularizado por Daniel Goleman, enfatiza la importancia de las competencias emocionales en el liderazgo y en el éxito personal. Goleman identifica cinco componentes principales: autoconciencia, autorregulación, motivación, empatía y habilidades sociales.
+            p.mb-0.text-small Este modelo, popularizado por Daniel Goleman, enfatiza la importancia de las competencias emocionales en el liderazgo y en el éxito personal. Goleman identifica cinco componentes principales: autoconciencia, autorregulación, motivación, empatía y habilidades sociales.
 
-      .col-xl-3.col-md-6
+      .col-10.col-lg-3.mb-3
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -48,9 +48,9 @@
               li.mb-4
                 i.ico-open-task
                 h5 Modelo de Bar-On
-            p El modelo de Reuven Bar-On propone una visión más amplia de la inteligencia emocional, incluyendo componentes como la adaptación al estrés, la relación interpersonal y las habilidades generales de vida. 
+            p.mb-0.text-small  El modelo de Reuven Bar-On propone una visión más amplia de la inteligencia emocional, incluyendo componentes como la adaptación al estrés, la relación interpersonal y las habilidades generales de vida. 
 
-      .col-xl-3.col-md-6
+      .col-10.col-lg-3.mb-3
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -60,9 +60,9 @@
               li.mb-4
                 i.ico-open-task
                 h5 Modelo de Mayer y Salovey
-            p Este modelo se centra en la inteligencia emocional como una capacidad mental que implica la habilidad de percibir, usar, entender y regular las emociones
+            p.mb-0.text-small  Este modelo se centra en la inteligencia emocional como una capacidad mental que implica la habilidad de percibir, usar, entender y regular las emociones.
             
-      .col-xl-3.col-md-6
+      .col-10.col-lg-3.mb-3
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -72,7 +72,7 @@
               li.mb-4
                 i.ico-open-task
                 h5 Modelo de Bisquerra
-            p Este modelo enfatiza el desarrollo de las competencias emocionales desde una perspectiva educativa, proponiendo un modelo de educación emocional que incluye componentes como la conciencia emocional, la gestión emocional, la comunicación emocional y las relaciones interpersonales. 
+            p.mb-0.text-small  Este modelo enfatiza el desarrollo de las competencias emocionales desde una perspectiva educativa, proponiendo un modelo de educación emocional que incluye componentes como la conciencia emocional, la gestión emocional, la comunicación emocional y las relaciones interpersonales. 
 
     //.row.mb-5
       .col-sm-6.col-xl-3.mb-4.mb-xl-0

@@ -89,7 +89,7 @@
                 i.lista-ul__vineta
                 p.mb-0 #[b Reacciones en el sistema nervioso autónomo:] respuestas como la sudoración, temblores o cambios en la respiración. 
 
-            p Estos cambios son automáticos  y a menudo involuntarios, y preparan al cuerpo para una acción especifica, como luchar o huir. 
+            p Estos cambios son automáticos  y a menudo involuntarios, y preparan al cuerpo para una acción específica, como luchar o huir. 
 
       .py-4.py-md-4(titulo="Componente cognitivo")
         .row

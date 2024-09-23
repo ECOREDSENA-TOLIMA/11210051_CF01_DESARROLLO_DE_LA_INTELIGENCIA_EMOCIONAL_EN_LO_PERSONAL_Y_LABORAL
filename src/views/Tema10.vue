@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/temas/tema10/img-01.png', alt='')
      
-    p(data-aos="zoom-in") La teoría de las inteligencias múltiples fue propuesta por Howard Gardner en 1983, desafiando la visión tradicional de una inteligencia única y medible por pruebas de CI. Gardner identificó al menos ocho tipos distintos de inteligencias que las personas pueden poseer en diferentes grados y combinaciones. 
+    p(data-aos="zoom-in") La teoría de las inteligencias múltiples fue propuesta por Howard Gardner (1983), desafiando la visión tradicional de una inteligencia única y medible por pruebas de CI. Gardner identificó al menos ocho tipos distintos de inteligencias que las personas pueden poseer en diferentes grados y combinaciones. 
     p.mb-5(data-aos="zoom-in") A continuación, algunos aspectos clave de las inteligencias múltiples: 
 
     .tarjeta--container.row.mb-5(data-aos="fade-up")

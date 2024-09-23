@@ -52,7 +52,7 @@
                 img(src="@/assets/curso/temas/tema9/img-03.svg", alt="alt").img150
             .col.m-1
               h5 Evaluación  del CI
-              p Pruebas como el WAIS (Wechsler Adult Intelligence Scale) y el Stanfor- Binet.
+              p Pruebas como el WAIS (Wechsler Adult Intelligence Scale) y el Stanfor-Binet.
         .crd.py-4(style="background-color: #FFF4D6; ")  
           .row.align-items-center
             .col-auto

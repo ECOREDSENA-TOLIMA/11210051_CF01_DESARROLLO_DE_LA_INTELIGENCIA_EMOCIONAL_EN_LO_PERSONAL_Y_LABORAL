@@ -16,7 +16,7 @@
             figure
               img(src='@/assets/curso/temas/tema4/img-08.svg', alt='Imagen decorativa')
         h3.text-center Emociones
-        p Son reacciones rápidas y automáticas que involucran tanto procesos fisiológicos como psicológicos. Estas respuestas que se desencadenan antes estímulos específicos , pueden ser breves y están asociadas con cambios fisiológicos y comportamientos observables.
+        p Son reacciones rápidas y automáticas que involucran tanto procesos fisiológicos como psicológicos. Estas respuestas, que se desencadenan antes estímulos específicos, pueden ser breves y están asociadas con cambios fisiológicos y comportamientos observables.
         
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
